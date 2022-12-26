@@ -1,0 +1,7 @@
+{
+  "src": {
+    "tagName": "v%s",
+    "commitMessage": "%s"
+  },
+  "safeBump": false
+}

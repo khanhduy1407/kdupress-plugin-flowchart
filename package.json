@@ -1,0 +1,31 @@
+{
+  "name": "kdupress-plugin-flowchart",
+  "version": "1.4.2",
+  "description": "Rapid flowchart development plugin for kdupress",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdujs/kdupress.git"
+  },
+  "keywords": [
+    "documentation",
+    "kdu",
+    "kdupress",
+    "generator"
+  ],
+  "dependencies": {
+    "flowchart.js": "^1.11.3"
+  },
+  "author": "NKDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhduy1407/kdupress-plugin-flowchart"
+  },
+  "homepage": "https://github.com/khanhduy1407/kdupress-plugin-flowchart#readme",
+  "devDependencies": {
+    "release-it": "v7.4.8"
+  }
+}
