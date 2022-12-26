@@ -1,6 +1,6 @@
 {
   "name": "kdupress-plugin-flowchart",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Rapid flowchart development plugin for kdupress",
   "main": "index.js",
   "scripts": {
